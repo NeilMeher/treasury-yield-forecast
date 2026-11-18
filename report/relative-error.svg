@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 402" role="img">
+<title>Relative out-of-sample Treasury forecast error</title>
+<rect width="780" height="402" fill="#fbfaf6"/>
+<g font-family="Arial,sans-serif" fill="#163043">
+<text x="24" y="38" font-size="24">Treasury forecast tournament</text>
+<text x="24" y="62" font-size="13">Fed fitted zero-coupon yields · RMSE ratio vs no change · below 1.00 improves</text>
+<text x="209" y="94" text-anchor="middle">1Y</text>
+<text x="304" y="94" text-anchor="middle">2Y</text>
+<text x="399" y="94" text-anchor="middle">3Y</text>
+<text x="494" y="94" text-anchor="middle">5Y</text>
+<text x="589" y="94" text-anchor="middle">7Y</text>
+<text x="684" y="94" text-anchor="middle">10Y</text>
+<text x="25" y="131" font-size="14">Maturity AR(1) · 1m</text>
+<rect x="163" y="106" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="209" y="131" text-anchor="middle" font-size="15">1.01</text>
+<rect x="258" y="106" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="304" y="131" text-anchor="middle" font-size="15">1.01</text>
+<rect x="353" y="106" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="399" y="131" text-anchor="middle" font-size="15">1.01</text>
+<rect x="448" y="106" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="494" y="131" text-anchor="middle" font-size="15">1.01</text>
+<rect x="543" y="106" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="589" y="131" text-anchor="middle" font-size="15">1.01</text>
+<rect x="638" y="106" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="684" y="131" text-anchor="middle" font-size="15">1.01</text>
+<text x="25" y="175" font-size="14">Maturity AR(1) · 3m</text>
+<rect x="163" y="150" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="209" y="175" text-anchor="middle" font-size="15">1.01</text>
+<rect x="258" y="150" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="304" y="175" text-anchor="middle" font-size="15">1.02</text>
+<rect x="353" y="150" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="399" y="175" text-anchor="middle" font-size="15">1.02</text>
+<rect x="448" y="150" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="494" y="175" text-anchor="middle" font-size="15">1.02</text>
+<rect x="543" y="150" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="589" y="175" text-anchor="middle" font-size="15">1.02</text>
+<rect x="638" y="150" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="684" y="175" text-anchor="middle" font-size="15">1.02</text>
+<text x="25" y="219" font-size="14">Maturity AR(1) · 12m</text>
+<rect x="163" y="194" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="209" y="219" text-anchor="middle" font-size="15">0.99</text>
+<rect x="258" y="194" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="304" y="219" text-anchor="middle" font-size="15">1.01</text>
+<rect x="353" y="194" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="399" y="219" text-anchor="middle" font-size="15">1.03</text>
+<rect x="448" y="194" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="494" y="219" text-anchor="middle" font-size="15">1.07</text>
+<rect x="543" y="194" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="589" y="219" text-anchor="middle" font-size="15">1.09</text>
+<rect x="638" y="194" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="684" y="219" text-anchor="middle" font-size="15">1.10</text>
+<text x="25" y="263" font-size="14">DNS · 1m</text>
+<rect x="163" y="238" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="209" y="263" text-anchor="middle" font-size="15">1.14</text>
+<rect x="258" y="238" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="304" y="263" text-anchor="middle" font-size="15">1.05</text>
+<rect x="353" y="238" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="399" y="263" text-anchor="middle" font-size="15">1.06</text>
+<rect x="448" y="238" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="494" y="263" text-anchor="middle" font-size="15">1.11</text>
+<rect x="543" y="238" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="589" y="263" text-anchor="middle" font-size="15">1.06</text>
+<rect x="638" y="238" width="92" height="39" rx="3" fill="#e4e4d9"/>
+<text x="684" y="263" text-anchor="middle" font-size="15">1.02</text>
+<text x="25" y="307" font-size="14">DNS · 3m</text>
+<rect x="163" y="282" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="209" y="307" text-anchor="middle" font-size="15">1.17</text>
+<rect x="258" y="282" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="304" y="307" text-anchor="middle" font-size="15">1.11</text>
+<rect x="353" y="282" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="399" y="307" text-anchor="middle" font-size="15">1.12</text>
+<rect x="448" y="282" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="494" y="307" text-anchor="middle" font-size="15">1.15</text>
+<rect x="543" y="282" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="589" y="307" text-anchor="middle" font-size="15">1.11</text>
+<rect x="638" y="282" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="684" y="307" text-anchor="middle" font-size="15">1.04</text>
+<text x="25" y="351" font-size="14">DNS · 12m</text>
+<rect x="163" y="326" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="209" y="351" text-anchor="middle" font-size="15">1.12</text>
+<rect x="258" y="326" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="304" y="351" text-anchor="middle" font-size="15">1.15</text>
+<rect x="353" y="326" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="399" y="351" text-anchor="middle" font-size="15">1.19</text>
+<rect x="448" y="326" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="494" y="351" text-anchor="middle" font-size="15">1.26</text>
+<rect x="543" y="326" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="589" y="351" text-anchor="middle" font-size="15">1.25</text>
+<rect x="638" y="326" width="92" height="39" rx="3" fill="#efd0bb"/>
+<text x="684" y="351" text-anchor="middle" font-size="15">1.19</text>
+</g></svg>

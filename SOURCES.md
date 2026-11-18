@@ -1,0 +1,8 @@
+# Data and provenance
+
+- Federal Reserve Board staff, Gürkaynak–Sack–Wright nominal yield curve. Daily CSV accessed November 18, 2026, with a last observation of November 13, 2026. Research product subject to revision. Select the last complete day per month for 1985–2025; no month gaps. [Source and conventions](https://www.federalreserve.gov/data/nominal-yield-curve.htm) · [CSV](https://www.federalreserve.gov/data/yield-curve-tables/feds200628.csv)
+- Diebold and Li, 2006. Cross-sectional factor loadings with a fixed 0.0609 monthly decay and separate factor time-series dynamics. The NBER landing page returned 403 on direct fetch; the published paper was accessible through an academic copy. [DOI](https://doi.org/10.1016/j.jeconom.2005.03.005) · [Copy](https://www.ucm.es/data/cont/media/www/pag-41460/Diebold.pdf)
+
+SVENY01, 02, 03, 05, 07, and 10 are annual continuously compounded zero-coupon yields in percent. Maturity codes are years. The staff series fits off-the-run coupon-security prices and provides yields on hypothetical zero-coupon instruments. Dates identify U.S. market observation days. No separate release-time data or prior vintages were used. The exact transformed data slice is pinned by source-sha256.txt. Raw daily CSVs and third-party papers are kept out of version control. The synthetic pilot uses a seeded factor process.
+
+Accuracy rows state period, forecast horizon in months, maturity in years, model, count of common forecast origins, RMSE in basis points, and RMSE relative to no change. MSE-gap interval endpoints are in squared basis points, versus the same baseline. They are calculated for the two challengers on the full sample. The origin audit reports yields and intercepts in percent or percentage points.
